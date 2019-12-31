@@ -3,6 +3,5 @@
 
 def parrot(desc="Squawk!")
   puts desc
-  "Squawk!"
   desc
 end 
